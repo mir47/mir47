@@ -4,6 +4,7 @@
 - [LinkedIn](https://www.linkedin.com/in/miroslav-minev-43216145)
 - [Google Developer Profile](https://google.dev/u/100886457646296158799)
 - [GitHub](https://github.com/mir47)
+- [HackerRank](https://www.hackerrank.com/minev_miro)
 
 <!--
 **mir47/mir47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
