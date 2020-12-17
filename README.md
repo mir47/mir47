@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### Quick Links
+- [Udacity Nanodegree Program](https://classroom.udacity.com/nanodegrees/nd940/dashboard/overview)
+- [Advent of Code](https://adventofcode.com/)
+- [HackerRank](https://www.hackerrank.com/minev_miro)
+
 ### Links:
 - [LinkedIn](https://www.linkedin.com/in/miroslav-minev-43216145)
 - [Google Developer Profile](https://google.dev/u/100886457646296158799)
