@@ -7,7 +7,7 @@
 
 ### Links:
 - [LinkedIn](https://www.linkedin.com/in/miroslav-minev-43216145)
-- [Google Developer Profile](https://google.dev/u/100886457646296158799)
+- [Google Developer Profile](https://google.dev/u/100886457646296158799) (earn more badges [here](https://developer.android.com/courses/android-basics-kotlin/course))
 - [GitHub](https://github.com/mir47)
 - [HackerRank](https://www.hackerrank.com/minev_miro)
 
