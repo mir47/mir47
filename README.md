@@ -11,6 +11,9 @@
 - [GitHub](https://github.com/mir47)
 - [HackerRank](https://www.hackerrank.com/minev_miro)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mir47&layout=compact&hide=html,css,jupyter%20notebook)](https://github.com/mir47/mir47)
+![Miro's github stats](https://github-readme-stats.vercel.app/api?username=mir47&theme=dracula&show_icons=true&hide=prs,issues)
+
 <!--
 **mir47/mir47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
