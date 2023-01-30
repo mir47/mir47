@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello world! 👋
+
+<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"                       width=50 height=50/>   <!-- Git -->
+<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"   width=50 height=50/>   <!-- Android Studio -->
+<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg"                  width=50 height=50/>   <!-- Android -->
+<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"                     width=50 height=50/>   <!-- Java -->
+<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"                 width=50 height=50/>   <!-- Kotlin -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mir47&layout=compact&hide=html,css,jupyter%20notebook)](https://github.com/mir47/mir47)
 ![Miro's github stats](https://github-readme-stats.vercel.app/api?username=mir47&theme=dracula&show_icons=true&hide=prs,issues)
